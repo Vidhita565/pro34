@@ -57,7 +57,7 @@ function writeStock(x,y) {
 
 function readStock(data) {
   food = data.val();
-  food
+ 
   
 }
 
